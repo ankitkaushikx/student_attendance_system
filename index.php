@@ -152,7 +152,7 @@ session_start();
                                 </div>
                             </div>
                             <div class="col-md-12 text-center ">
-                             By Rohit & Purushotam
+                             By Rohit & Hariom
                             </div>
                         </div>
                     </div>
